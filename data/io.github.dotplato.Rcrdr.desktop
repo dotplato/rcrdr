@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Rcrdr
+Comment=Record your screen, a window, or a selected area
+Exec=rcrdr
+Icon=media-record
+Terminal=false
+Categories=AudioVideo;Recorder;GTK;GNOME;
+Keywords=screen;recorder;screencast;capture;video;
+StartupNotify=true
+DBusActivatable=false
